@@ -1,0 +1,98 @@
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\07_红外感应实验\项目源码\InfraredElec\bin\Debug\InfraredElec.exe.config
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\07_红外感应实验\项目源码\InfraredElec\bin\Debug\InfraredElec.exe
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\07_红外感应实验\项目源码\InfraredElec\bin\Debug\InfraredElec.pdb
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\07_红外感应实验\项目源码\InfraredElec\bin\Debug\InfraredElecLibrary.dll
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\07_红外感应实验\项目源码\InfraredElec\bin\Debug\InfraredElecLibrary.xml
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\07_红外感应实验\项目源码\InfraredElec\obj\Debug\InfraredElec.csprojResolveAssemblyReference.cache
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\07_红外感应实验\项目源码\InfraredElec\obj\Debug\MainWindow.baml
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\07_红外感应实验\项目源码\InfraredElec\obj\Debug\MainWindow.g.cs
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\07_红外感应实验\项目源码\InfraredElec\obj\Debug\App.g.cs
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\07_红外感应实验\项目源码\InfraredElec\obj\Debug\InfraredElec_MarkupCompile.cache
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\07_红外感应实验\项目源码\InfraredElec\obj\Debug\InfraredElec.g.resources
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\07_红外感应实验\项目源码\InfraredElec\obj\Debug\InfraredElec.Properties.Resources.resources
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\07_红外感应实验\项目源码\InfraredElec\obj\Debug\InfraredElec.csproj.GenerateResource.Cache
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\07_红外感应实验\项目源码\InfraredElec\obj\Debug\InfraredElec.exe
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\07_红外感应实验\项目源码\InfraredElec\obj\Debug\InfraredElec.pdb
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\07_红外感应实验\项目源码\InfraredElec\bin\Debug\InfraredElec.exe.config
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\07_红外感应实验\项目源码\InfraredElec\obj\Debug\InfraredElec.exe
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\07_红外感应实验\项目源码\InfraredElec\obj\Debug\InfraredElec.pdb
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\07_红外感应实验\项目源码\InfraredElec\bin\Debug\InfraredElec.exe
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\07_红外感应实验\项目源码\InfraredElec\bin\Debug\InfraredElec.pdb
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\07_红外感应实验\项目源码\InfraredElec\bin\Debug\InfraredElecLibrary.dll
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\07_红外感应实验\项目源码\InfraredElec\bin\Debug\InfraredElecLibrary.xml
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\07_红外感应实验\项目源码\InfraredElec\obj\Debug\InfraredElec.csprojResolveAssemblyReference.cache
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\07_红外感应实验\项目源码\InfraredElec\obj\Debug\MainWindow.baml
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\07_红外感应实验\项目源码\InfraredElec\obj\Debug\MainWindow.g.cs
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\07_红外感应实验\项目源码\InfraredElec\obj\Debug\App.g.cs
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\07_红外感应实验\项目源码\InfraredElec\obj\Debug\InfraredElec_MarkupCompile.cache
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\07_红外感应实验\项目源码\InfraredElec\obj\Debug\InfraredElec.g.resources
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\07_红外感应实验\项目源码\InfraredElec\obj\Debug\InfraredElec.Properties.Resources.resources
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\07_红外感应实验\项目源码\InfraredElec\obj\Debug\InfraredElec.csproj.GenerateResource.Cache
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\07_红外传输实验\02_项目代码\InfraredElec\bin\Debug\InfraredElec.exe.config
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\07_红外传输实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.exe
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\07_红外传输实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.pdb
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\07_红外传输实验\02_项目代码\InfraredElec\bin\Debug\InfraredElec.exe
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\07_红外传输实验\02_项目代码\InfraredElec\bin\Debug\InfraredElec.pdb
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\07_红外传输实验\02_项目代码\InfraredElec\bin\Debug\InfraredElecLibrary.dll
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\07_红外传输实验\02_项目代码\InfraredElec\bin\Debug\InfraredElecLibrary.xml
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\07_红外传输实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.csprojResolveAssemblyReference.cache
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\07_红外传输实验\02_项目代码\InfraredElec\obj\Debug\MainWindow.baml
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\07_红外传输实验\02_项目代码\InfraredElec\obj\Debug\MainWindow.g.cs
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\07_红外传输实验\02_项目代码\InfraredElec\obj\Debug\App.g.cs
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\07_红外传输实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec_MarkupCompile.cache
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\07_红外传输实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.g.resources
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\07_红外传输实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.Properties.Resources.resources
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\07_红外传输实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.csproj.GenerateResource.Cache
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\07_红外感应实验\02_项目代码\InfraredElec\bin\Debug\InfraredElec.exe.config
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.exe
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.pdb
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\bin\Debug\InfraredElec.exe.config
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.exe
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.pdb
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\bin\Debug\InfraredElec.exe
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\bin\Debug\InfraredElec.pdb
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\bin\Debug\InfraredElecLibrary.dll
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\bin\Debug\InfraredElecLibrary.xml
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.csprojResolveAssemblyReference.cache
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\MainWindow.baml
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\MainWindow.g.cs
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\App.g.cs
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec_MarkupCompile.cache
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.g.resources
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.Properties.Resources.resources
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.csproj.GenerateResource.Cache
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\bin\Debug\InfraredElec.exe.config
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\bin\Debug\InfraredElec.exe
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\bin\Debug\InfraredElec.pdb
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\bin\Debug\InfraredElecLibrary.dll
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\bin\Debug\InfraredElecLibrary.xml
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.csprojAssemblyReference.cache
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\MainWindow.baml
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\MainWindow.g.cs
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\App.g.cs
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec_MarkupCompile.cache
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.g.resources
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.Properties.Resources.resources
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.csproj.GenerateResource.cache
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.csproj.CoreCompileInputs.cache
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.csproj.CopyComplete
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.exe
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\07_红外感应实验\02_项目代码\InfraredElec\obj\Debug\InfraredElec.pdb
+C:\Users\user\Desktop\红外传感实验代码\红外传感实验代码\InfraredElec\bin\Debug\InfraredElec.exe.config
+C:\Users\user\Desktop\红外传感实验代码\红外传感实验代码\InfraredElec\bin\Debug\InfraredElec.exe
+C:\Users\user\Desktop\红外传感实验代码\红外传感实验代码\InfraredElec\bin\Debug\InfraredElec.pdb
+C:\Users\user\Desktop\红外传感实验代码\红外传感实验代码\InfraredElec\bin\Debug\InfraredElecLibrary.dll
+C:\Users\user\Desktop\红外传感实验代码\红外传感实验代码\InfraredElec\bin\Debug\InfraredElecLibrary.xml
+C:\Users\user\Desktop\红外传感实验代码\红外传感实验代码\InfraredElec\obj\Debug\InfraredElec.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\红外传感实验代码\红外传感实验代码\InfraredElec\obj\Debug\InfraredElec.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\红外传感实验代码\红外传感实验代码\InfraredElec\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\红外传感实验代码\红外传感实验代码\InfraredElec\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\红外传感实验代码\红外传感实验代码\InfraredElec\obj\Debug\App.g.cs
+C:\Users\user\Desktop\红外传感实验代码\红外传感实验代码\InfraredElec\obj\Debug\InfraredElec_MarkupCompile.cache
+C:\Users\user\Desktop\红外传感实验代码\红外传感实验代码\InfraredElec\obj\Debug\InfraredElec.g.resources
+C:\Users\user\Desktop\红外传感实验代码\红外传感实验代码\InfraredElec\obj\Debug\InfraredElec.Properties.Resources.resources
+C:\Users\user\Desktop\红外传感实验代码\红外传感实验代码\InfraredElec\obj\Debug\InfraredElec.csproj.GenerateResource.cache
+C:\Users\user\Desktop\红外传感实验代码\红外传感实验代码\InfraredElec\obj\Debug\InfraredElec.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\红外传感实验代码\红外传感实验代码\InfraredElec\obj\Debug\InfraredElec.csproj.CopyComplete
+C:\Users\user\Desktop\红外传感实验代码\红外传感实验代码\InfraredElec\obj\Debug\InfraredElec.exe
+C:\Users\user\Desktop\红外传感实验代码\红外传感实验代码\InfraredElec\obj\Debug\InfraredElec.pdb

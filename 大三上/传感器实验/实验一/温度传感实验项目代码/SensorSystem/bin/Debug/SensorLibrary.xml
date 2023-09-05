@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SensorLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:SensorLibrary.ComHelper">
+            <summary>
+            串口帮助类
+            </summary>
+        </member>
+        <member name="M:SensorLibrary.ComHelper.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:SensorLibrary.ComHelper.#ctor(System.String,System.Int32)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="serialNumber">串口号</param>
+            <param name="baudRate">波特率</param>
+        </member>
+        <member name="M:SensorLibrary.ComHelper.Open">
+            <summary>
+            打开串口
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SensorLibrary.ComHelper.Write(System.Byte[],System.Int32,System.Int32)">
+            <summary>
+            写入
+            </summary>
+            <param name="buffer"></param>
+            <param name="offset"></param>
+            <param name="count"></param>
+        </member>
+        <member name="M:SensorLibrary.ComHelper.WriteLine(System.String)">
+            <summary>
+            写入
+            </summary>
+            <param name="message"></param>
+        </member>
+        <member name="M:SensorLibrary.ComHelper.StringToToHexByte(System.String)">
+            <summary>
+            字符串转十六进制
+            </summary>
+            <param name="hexString"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SensorLibrary.ComHelper.GetData">
+            <summary>
+            获取串口数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SensorLibrary.ComHelper.Close">
+            <summary>
+            关闭串口
+            </summary>
+        </member>
+        <member name="M:SensorLibrary.ComHelper.GetPoints">
+            <summary>
+            获取
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:SensorLibrary.CommandModel">
+            <summary>
+            命令实体
+            </summary>
+        </member>
+        <member name="P:SensorLibrary.CommandModel.Init">
+            <summary>
+            初化通讯
+            </summary>
+        </member>
+        <member name="P:SensorLibrary.CommandModel.NTCInit">
+            <summary>
+            初始NTC
+            </summary>
+        </member>
+        <member name="P:SensorLibrary.CommandModel.OnNTC">
+            <summary>
+            开NTC
+            </summary>
+        </member>
+        <member name="P:SensorLibrary.CommandModel.OffNTC">
+            <summary>
+            关NTC
+            </summary>
+        </member>
+        <member name="P:SensorLibrary.CommandModel.ComparatorInit">
+            <summary>
+            初始比较器
+            </summary>
+        </member>
+        <member name="P:SensorLibrary.CommandModel.OnComparator">
+            <summary>
+            开比较器
+            </summary>
+        </member>
+        <member name="P:SensorLibrary.CommandModel.OffComparator">
+            <summary>
+            关比较器
+            </summary>
+        </member>
+        <member name="P:SensorLibrary.CommandModel.PressurePointInit">
+            <summary>
+            初始压力点
+            </summary>
+        </member>
+        <member name="P:SensorLibrary.CommandModel.OnPressurePoint">
+            <summary>
+            开压力点
+            </summary>
+        </member>
+        <member name="P:SensorLibrary.CommandModel.OffPressurePoint">
+            <summary>
+            关压力点
+            </summary>
+        </member>
+        <member name="T:SensorLibrary.Conversion">
+             <summary>
+            换算
+             </summary>
+        </member>
+        <member name="M:SensorLibrary.Conversion.GetValue(System.Double)">
+            <summary>
+            值换算
+            </summary>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="T:SensorLibrary.MsgEventArgs">
+            <summary>
+            通知件事类
+            </summary>
+        </member>
+        <member name="P:SensorLibrary.MsgEventArgs.Msg">
+            <summary>
+            字符消息
+            </summary>
+        </member>
+        <member name="P:SensorLibrary.MsgEventArgs.BMsg">
+            <summary>
+            byte消息
+            </summary>
+        </member>
+        <member name="P:SensorLibrary.MsgEventArgs.BAMsg">
+            <summary>
+            byte数组消息
+            </summary>
+        </member>
+        <member name="P:SensorLibrary.MsgEventArgs.MsgTime">
+            <summary>
+            消息时间
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,421 @@
+﻿<Window x:Class="InfraredElec.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="600" Width="1280" Loaded="Window_Loaded" Unloaded="Window_Unloaded">
+    <Window.Resources>
+        <Storyboard  x:Key="sb_Out" x:Name="sb_Out"  Storyboard.TargetName="brd">
+            <ObjectAnimationUsingKeyFrames FillBehavior="Stop" Storyboard.TargetName="brd" Storyboard.TargetProperty="(Border.Background)">
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.5">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/Out/p34_0.5s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.7">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/Out/p35_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.9">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/Out/p36_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.1">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/Out/p37_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.3">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/Out/p38_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.5">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/Out/p39_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.7">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/Out/p40_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.8">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/Out/p41_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:2">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/Out/p42_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:3">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/Out/p43_1s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+
+        <Storyboard  x:Key="sb_In" x:Name="sb_In" >
+            <ObjectAnimationUsingKeyFrames FillBehavior="Stop" Storyboard.TargetName="brd" Storyboard.TargetProperty="(Border.Background)">
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.5">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/In/p26_0.5s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.7">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/In/p27_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.9">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/In/p28_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.1">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/In/p29_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.3">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/In/p30_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.5">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/In/p31_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.7">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/In/p32_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.8">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/In/p33_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+
+        <Storyboard  x:Key="sb_A" x:Name="sb_A" Storyboard.TargetName="brd">
+            <ObjectAnimationUsingKeyFrames FillBehavior="Stop" Storyboard.TargetName="brd" Storyboard.TargetProperty="(Border.Background)">
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.5">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/A/p1_0.5s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/A/p2_0.5s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.2">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/A/p3_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.3">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/A/p4_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.5">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/A/p5_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.7">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/A/p6_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.9">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/A/p7_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:2.1">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/A/p8_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:2.1">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/A/p8_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:2.3">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/A/p9_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:2.5">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/A/p10_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:2.7">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/A/p11_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:2.9">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/A/p12_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:3.9">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/A/p13_1s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+
+        <Storyboard  x:Key="sb_B" x:Name="sb_B" >
+            <ObjectAnimationUsingKeyFrames FillBehavior="Stop" Storyboard.TargetName="brd" Storyboard.TargetProperty="(Border.Background)">
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.5">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/B/p14_0.5s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.7">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/B/p15_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.9">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/B/p16_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.1">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/B/p17_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.3">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/B/p18_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.5">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/B/p19_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.7">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/B/p20_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.8">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/B/p21_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:2">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/B/p22_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:2.2">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/B/p23_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:2.4">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/B/p24_0.2s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:3.4">
+                    <DiscreteObjectKeyFrame.Value>
+                        <ImageBrush ImageSource="Images/B/p25_1s.png"  />
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+
+        <!--<Style
+            TargetType="{x:Type ProgressBar}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate 
+                        TargetType="{x:Type ProgressBar}">
+                        <Grid MinHeight="20" MinWidth="240">
+                            <Rectangle Name="PART_Track" 
+                                       Fill="Gainsboro" Stroke="Red" StrokeThickness="1" />
+                            <Rectangle Name="PART_Indicator" 
+                                       Fill="DarkGray" Stroke="Blue" StrokeThickness="1" HorizontalAlignment="Left" />
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>-->
+        <ControlTemplate x:Key="myBar" TargetType="{x:Type ProgressBar}">
+            <Grid x:Name="myGrid">
+                <Rectangle x:Name="rectangle" HorizontalAlignment="Left" Width="12">
+                    <Rectangle.Fill>
+                        <LinearGradientBrush EndPoint="-0.006,0.507" StartPoint="1.006,0.493">
+                            <GradientStop Color="Black" Offset="1"/>
+                            <GradientStop Color="#FFEC0B0B"/>
+                        </LinearGradientBrush>
+                    </Rectangle.Fill>
+                </Rectangle>
+            </Grid>
+        </ControlTemplate>
+
+        <Style TargetType="ProgressBar" x:Key="Basic">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ProgressBar" >
+                        <Grid x:Name="Root">
+                            <Border Name="PART_Track" CornerRadius="2" Background="LightGreen" BorderBrush="Green" BorderThickness="2" />
+                            <Border Name="PART_Indicator" CornerRadius="2" Background="ForestGreen" BorderBrush="Green" BorderThickness="2" HorizontalAlignment="Left" />
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <!-- Getting vertical style working using technique described here: http://stackoverflow.com/a/6849237/7532 -->
+                            <Trigger Property="Orientation" Value="Vertical">
+                                <Setter TargetName="Root" Property="LayoutTransform">
+                                    <Setter.Value>
+                                        <RotateTransform Angle="270" />
+                                    </Setter.Value>
+                                </Setter>
+                                <Setter TargetName="Root" Property="Width" Value="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=Height}"/>
+                                <Setter TargetName="Root" Property="Height" Value="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=Width}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="ProgressBar" x:Key="VolumeMeter">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ProgressBar" >
+                        <Grid x:Name="Root">
+                            <Border Name="PART_Track" CornerRadius="1" Background="{TemplateBinding Foreground}" BorderBrush="Green" BorderThickness="0">
+                                <!--<Border.Background>
+                                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                                        <GradientStop Offset="0" Color="{TemplateBinding Foreground}"/>
+                                        <GradientStop Offset="0.9" Color="#FFFFFF00"/>
+                                        <GradientStop Offset="1" Color="#FFFF0000"/>
+                                    </LinearGradientBrush>
+                                </Border.Background>-->
+                            </Border>
+                            <Border CornerRadius="2" BorderBrush="Green" BorderThickness="0" HorizontalAlignment="Left">
+                                <DockPanel>
+                                    <Rectangle Name="PART_Indicator"></Rectangle>
+                                    <Rectangle Name="Mask" MinWidth="{TemplateBinding Width}" Fill="{TemplateBinding Background}" />
+                                </DockPanel>
+                            </Border>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <!-- Getting vertical style working using technique described here: http://stackoverflow.com/a/6849237/7532 -->
+                            <Trigger Property="Orientation" Value="Vertical">
+                                <Setter TargetName="Root" Property="LayoutTransform">
+                                    <Setter.Value>
+                                        <RotateTransform Angle="270" />
+                                    </Setter.Value>
+                                </Setter>
+
+                                <Setter TargetName="Root" Property="Width" Value="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=Height}" />
+                                <Setter TargetName="Root" Property="Height" Value="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=Width}"/>
+                                <Setter TargetName="Mask" Property="MinWidth" Value="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=Height}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="979*"/>
+            <ColumnDefinition Width="241*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/infrared_bg.png"/>
+        </Grid.Background>
+        <Border Name="brd" Grid.ColumnSpan="2">
+        </Border>
+        <Image Source="Images/chart.png" Width="298" Height="260" HorizontalAlignment="Right" VerticalAlignment="Top"/>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="65*"/>
+                <RowDefinition Height="62*"/>
+                <RowDefinition Height="113*"/>
+            </Grid.RowDefinitions>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="72*"/>
+                    <ColumnDefinition Width="80*"/>
+                    <ColumnDefinition Width="89*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30*"/>
+                    <RowDefinition Height="50*"/>
+                    <RowDefinition Height="50*"/>
+                </Grid.RowDefinitions>
+                <Label  Foreground="#96a7fe" HorizontalAlignment="Center" Grid.ColumnSpan="3">比较器输出</Label>
+                <Image Source="Images/sab_sae_sah.png" Width="14" Grid.Row="1" Grid.RowSpan="2" VerticalAlignment="Center" HorizontalAlignment="Center"></Image>
+                <Label Foreground="White" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">入口：</Label>
+                <Label Foreground="White" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">出口：</Label>
+                <Image Source="Images/switch_0.png" Name="img_In" Width="80" Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" MouseUp="OnEntranceButtonClickEvent"></Image>
+                <Image Source="Images/switch_0.png" Name="img_Out" Width="80" Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" MouseUp="OnExitButtonClickEvent"></Image>
+            </Grid>
+            <Border Height="2" VerticalAlignment="Bottom" Background="#6b79c1"></Border>
+
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="72*"/>
+                    <ColumnDefinition Width="80*"/>
+                    <ColumnDefinition Width="89*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50*"/>
+                    <RowDefinition Height="50*"/>
+                </Grid.RowDefinitions>
+                <Image Source="Images/infrared_reflection.png" Width="14"  Grid.RowSpan="2" VerticalAlignment="Center" HorizontalAlignment="Center"></Image>
+                <Label Foreground="White"  Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">车位A：</Label>
+                <Label Foreground="White" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">车位B：</Label>
+                <Image Source="Images/switch_0.png" Name="img_A" Width="80" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" MouseUp="OnStationAButtonClickEvent"></Image>
+                <Image Source="Images/switch_0.png" Name="img_B" Width="80" Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" MouseUp="OnStationBButtonClickEvent"></Image>
+            </Grid>
+            <Border Height="2" Grid.Row="1" VerticalAlignment="Bottom" Background="#6b79c1"></Border>
+
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel VerticalAlignment="Center">
+                    <Label Name="lbad1" HorizontalAlignment="Center" Foreground="Gray">128</Label>
+                    <ProgressBar Name="pro_ad1" Style="{StaticResource VolumeMeter}" BorderThickness="0" BorderBrush="Transparent" Value="40" Background="#c8c8c8" Foreground="#49981e" HorizontalAlignment="Center" Height="100" VerticalAlignment="Center" Width="10" Orientation="Vertical"  />
+                    <Label HorizontalAlignment="Center" Foreground="Gray" Width="60">
+                        <Label.Content>
+                            <AccessText HorizontalAlignment="Center" TextWrapping="Wrap" Text="红外反射AD值1"/>
+                        </Label.Content>
+                    </Label>
+                </StackPanel>
+                <StackPanel VerticalAlignment="Center" Grid.Column="1">
+                    <Label Name="lbad2" HorizontalAlignment="Center" Foreground="Gray">128</Label>
+                    <ProgressBar Name="pro_ad2" Style="{StaticResource VolumeMeter}" BorderThickness="0" BorderBrush="Transparent" Value="40" Background="#c8c8c8" Foreground="#49981e" HorizontalAlignment="Center" Height="100" VerticalAlignment="Center" Width="10" Orientation="Vertical"  />
+                    <Label HorizontalAlignment="Center" Foreground="Gray" Width="60">
+                        <Label.Content>
+                            <AccessText HorizontalAlignment="Center" TextWrapping="Wrap" Text="红外反射AD值2"/>
+                        </Label.Content>
+                    </Label>
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

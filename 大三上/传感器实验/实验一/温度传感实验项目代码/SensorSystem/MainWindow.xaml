@@ -1,0 +1,92 @@
+﻿<Window x:Class="SensorSystem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+         xmlns:local="clr-namespace:SensorLibrary;assembly=SensorLibrary"
+        Title="MainWindow" Height="600" Width="1166">
+    <Window.Resources>
+        <Style x:Key="PointButtonTemplate" TargetType="{x:Type Button}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid/>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="False"/>
+                            <Trigger Property="IsPressed" Value="True"/>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="900*"/>
+            <ColumnDefinition Width="263*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="Resources/temperature_bg.png"/>
+        </Grid.Background>
+        <Grid Name="MyLine" Grid.Column="0" Width="490" Height="382" HorizontalAlignment="Right" VerticalAlignment="Top">
+            <Grid.Background>
+                <ImageBrush ImageSource="Resources/table_system.png"/>
+            </Grid.Background>
+            <Line Name="lh" X1="20" Y1="276" X2="20" Y2="0" StrokeThickness="2"  HorizontalAlignment="Left" Stroke="#0080ff"></Line>
+            <Line Name="lh1" X1="20" Y1="276" X2="20" Y2="0" StrokeThickness="2"  HorizontalAlignment="Left" Stroke="#eb6666"></Line>
+            <Line Name="lv" X1="20" Y1="276" X2="70" Y2="276" StrokeThickness="2"  HorizontalAlignment="Left" Stroke="#49981e"></Line>
+            <Polyline  Name="pl"
+                      Stroke="#e86a05" StrokeThickness="2">
+
+            </Polyline>
+
+        </Grid>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="180*"/>
+                <RowDefinition Height="103*"/>
+                <RowDefinition Height="50*"/>
+                <RowDefinition Height="161*"/>
+            </Grid.RowDefinitions>
+            <Image HorizontalAlignment="Center" Height="142" Grid.Row="3" VerticalAlignment="Top" Width="249" Source="Resources/sensor_board_bg.png"/>
+            <Label Content="热敏电阻传感器板" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Foreground="White" FontSize="14" FontFamily="Microsoft YaHei UI"/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="25*"/>
+                    <RowDefinition Height="115*"/>
+                    <RowDefinition Height="40*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="88*"/>
+                    <ColumnDefinition Width="87*"/>
+                    <ColumnDefinition Width="88*"/>
+                </Grid.ColumnDefinitions>
+                <Label x:Name="lblNTC" Content="0" HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground="#FFC8C8C8"/>
+                <Label x:Name="lblPressurePoint" Content="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground="#FFC8C8C8"/>
+                <ProgressBar Name="prbNTC" Grid.Column="0" HorizontalAlignment="Center" Height="100" VerticalAlignment="Center" Width="10" Orientation="Vertical" Grid.Row="1"/>
+                <ProgressBar Name="prbPressurePoint" Grid.Column="1" HorizontalAlignment="Center" Height="100" VerticalAlignment="Center" Width="10" Orientation="Vertical" Grid.Row="1"/>
+                <Image x:Name="imgComparatorOutputValue" Grid.Column="2" HorizontalAlignment="Center" Height="80" VerticalAlignment="Center" Width="28" Source="Resources/comparer_0.png" Grid.Row="1" MouseUp="imgComparatorOutputValue_MouseUp"/>
+                <TextBlock HorizontalAlignment="Center" Grid.Row="2" TextWrapping="Wrap" Text="NTC电阻AD值" VerticalAlignment="Top" Width="48" TextAlignment="Center" Foreground="#FFC8C8C8"/>
+                <TextBlock Grid.Column="1" HorizontalAlignment="Center" Grid.Row="2" TextWrapping="Wrap" Text="调节分压点AD值" VerticalAlignment="Top" Width="65" TextAlignment="Center" Foreground="#FFC8C8C8"/>
+                <TextBlock Grid.Column="2" HorizontalAlignment="Center" TextWrapping="Wrap" Text="比较器输出" VerticalAlignment="Top" Grid.Row="2" Foreground="#FFC8C8C8"/>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="78*"/>
+                    <RowDefinition Height="25*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="131*"/>
+                    <ColumnDefinition Width="132*"/>
+                </Grid.ColumnDefinitions>
+                <Image Name="imgFan" HorizontalAlignment="Center" Height="72" VerticalAlignment="Center" Width="72" Source="Resources/airfan_off.png" MouseUp="imgFan_MouseUp"/>
+                <local:GifImage x:Name="gifFan" HorizontalAlignment="Center" Height="72" VerticalAlignment="Center" Width="72" Source="Resources/action_airfan_on.gif" Visibility="Hidden"/>
+                <Image Name="imgHeater" Grid.Column="1" HorizontalAlignment="Center" Height="72" VerticalAlignment="Center" Width="72" Source="Resources/warm_off.png" MouseUp="imgHeater_MouseUp"/>
+                <Label Content="风扇" HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Top" Foreground="#FFC8C8C8"/>
+                <Label Content="加热器" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Top" Foreground="#FFC8C8C8"/>
+            </Grid>
+            <Button Content="Button" HorizontalAlignment="Left" Margin="80,5,0,0" Grid.Row="3" VerticalAlignment="Top" Style="{StaticResource PointButtonTemplate}"/>
+            <Image x:Name="imgNTC" HorizontalAlignment="Left" Height="10" Margin="80,15,0,0" Grid.Row="3" VerticalAlignment="Top" Width="10" Source="Resources/point_normal.png" MouseUp="imgNTC_MouseUp"/>
+            <Image x:Name="imgPressurePoint" HorizontalAlignment="Left" Height="10" Margin="80,65,0,0" Grid.Row="3" VerticalAlignment="Top" Width="10" Source="Resources/point_normal.png" MouseUp="imgPressurePoint_MouseUp"/>
+            <Image x:Name="imgComparatorOutput" HorizontalAlignment="Left" Height="10" Margin="213,35,0,0" Grid.Row="3" VerticalAlignment="Top" Width="10" Source="Resources/point_normal.png" MouseUp="imgComparatorOutput_MouseUp"/>
+        </Grid>
+    </Grid>
+</Window>

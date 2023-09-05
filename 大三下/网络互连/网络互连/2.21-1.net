@@ -1,0 +1,20 @@
+autostart = False
+[127.0.0.1:7200]
+    workingdir = C:\Users\user\AppData\Local\Temp
+    udp = 10000
+    [[3660]]
+        image = C:\GNS3-0.7.3-win32-all-in-one\gns3\c3660-i-mz.122-11.T2.bin
+        ghostios = True
+        chassis = 3660
+    [[ROUTER R1]]
+        model = 3660
+        console = 2000
+        f0/0 = R2 f0/0
+        x = -205.0
+        y = -26.0
+    [[ROUTER R2]]
+        model = 3660
+        console = 2001
+        f0/0 = R1 f0/0
+        x = 124.0
+        y = -69.0

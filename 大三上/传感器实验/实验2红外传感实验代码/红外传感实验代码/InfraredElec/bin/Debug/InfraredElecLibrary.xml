@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>InfraredElecLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:InfraredElecLibrary.ComHelper">
+            <summary>
+            串口辅助类
+            </summary>
+        </member>
+        <member name="F:InfraredElecLibrary.ComHelper.serialPort">
+            <summary>
+            串中资源类
+            </summary>
+        </member>
+        <member name="M:InfraredElecLibrary.ComHelper.#ctor">
+             <summary>
+            串口帮助类默认的构造函数
+             </summary>
+        </member>
+        <member name="M:InfraredElecLibrary.ComHelper.#ctor(System.String,System.Int32)">
+            <summary>
+            带参数的构造函数
+            </summary>
+            <param name="serialNumber">串口</param>
+            <param name="baudRate">波特率</param>
+        </member>
+        <member name="M:InfraredElecLibrary.ComHelper.serialPort_DataReceived(System.Object,System.IO.Ports.SerialDataReceivedEventArgs)">
+            <summary>
+            接收数据
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:InfraredElecLibrary.ComHelper.Open">
+            <summary>
+            打开串口
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:InfraredElecLibrary.ComHelper.Write(System.String)">
+            <summary>
+            向串口写数据
+            </summary>
+            <param name="message"></param>
+        </member>
+        <member name="M:InfraredElecLibrary.ComHelper.Write(System.Byte[],System.Int32,System.Int32)">
+            <summary>
+             向串口写数据
+            </summary>
+            <param name="buffer">byte[]数组</param>
+            <param name="offset">字节开始</param>
+            <param name="count">写入的字节数</param>
+        </member>
+        <member name="M:InfraredElecLibrary.ComHelper.WriteLine(System.String)">
+            <summary>
+            向串口写数据
+            </summary>
+            <param name="message"></param>
+        </member>
+        <member name="M:InfraredElecLibrary.ComHelper.GetData">
+            <summary>
+            获取数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:InfraredElecLibrary.ComHelper.StringToToHexByte(System.String)">
+            <summary>
+            字符串转十六进制
+            </summary>
+            <param name="hexString">十六进制字符串</param>
+            <returns>byte[]数组</returns>
+        </member>
+        <member name="M:InfraredElecLibrary.ComHelper.GetCHK(System.Byte[])">
+            <summary>
+             获取校验位
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:InfraredElecLibrary.ComHelper.GetData1">
+            <summary>
+            获取串口数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:InfraredElecLibrary.ComHelper.Close">
+            <summary>
+            关闭串口
+            </summary>
+        </member>
+        <member name="M:InfraredElecLibrary.ComHelper.Init(System.Byte)">
+            <summary>
+            初始化串口
+            </summary>
+            <param name="addr"></param>
+            <returns></returns>
+        </member>
+        <member name="M:InfraredElecLibrary.ComHelper.GetD14Data(System.Byte)">
+            <summary>
+            同时读取多位数值
+            </summary>
+            <param name="addr">模块地址</param>
+            <returns></returns>
+        </member>
+        <member name="M:InfraredElecLibrary.ComHelper.GetRetData(System.Byte,System.Byte,System.Byte)">
+            <summary>
+            读取多位数值
+            </summary>
+            <param name="addr">模块地址</param>
+            <param name="cmd">命令</param>
+            <param name="data">数据</param>
+            <returns></returns>
+        </member>
+        <member name="E:InfraredElecLibrary.ComHelper.MsgEvent">
+            <summary>
+            声明消息事件
+            </summary>
+        </member>
+        <member name="T:InfraredElecLibrary.MsgEventArgs">
+            <summary>
+            通知件事类
+            </summary>
+        </member>
+        <member name="P:InfraredElecLibrary.MsgEventArgs.Msg">
+            <summary>
+            字符消息
+            </summary>
+        </member>
+        <member name="P:InfraredElecLibrary.MsgEventArgs.BMsg">
+            <summary>
+            byte消息
+            </summary>
+        </member>
+        <member name="P:InfraredElecLibrary.MsgEventArgs.BAMsg">
+            <summary>
+            byte数组消息
+            </summary>
+        </member>
+        <member name="P:InfraredElecLibrary.MsgEventArgs.MsgTime">
+            <summary>
+            消息时间
+            </summary>
+        </member>
+    </members>
+</doc>

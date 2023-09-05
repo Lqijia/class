@@ -1,0 +1,143 @@
+E:\01_Work\产品支持\Newlab实验\02_Code\new\光照\Light\bin\Debug\Light.exe.config
+E:\01_Work\产品支持\Newlab实验\02_Code\new\10_光照\Light\bin\Debug\Light.exe.config
+E:\01_Work\产品支持\Newlab实验\02_Code\new\10_光照\Light\obj\Debug\Light.csprojResolveAssemblyReference.cache
+E:\01_Work\产品支持\Newlab实验\02_Code\new\10_光照\Light\obj\Debug\App.g.cs
+E:\01_Work\产品支持\Newlab实验\02_Code\new\10_光照\Light\obj\Debug\Light_MarkupCompile.cache
+E:\01_Work\产品支持\Newlab实验\02_Code\new\10_光照\Light\obj\Debug\MainWindow.baml
+E:\01_Work\产品支持\Newlab实验\02_Code\new\10_光照\Light\obj\Debug\MainWindow.g.cs
+E:\01_Work\产品支持\Newlab实验\02_Code\new\10_光照\Light\obj\Debug\Light.g.resources
+E:\01_Work\产品支持\Newlab实验\02_Code\new\10_光照\Light\obj\Debug\Light.Properties.Resources.resources
+E:\01_Work\产品支持\Newlab实验\02_Code\new\10_光照\Light\obj\Debug\Light.csproj.GenerateResource.Cache
+E:\01_Work\产品支持\Newlab实验\02_Code\new\10_光照\Light\bin\Debug\Light.exe
+E:\01_Work\产品支持\Newlab实验\02_Code\new\10_光照\Light\bin\Debug\Light.pdb
+E:\01_Work\产品支持\Newlab实验\02_Code\new\10_光照\Light\bin\Debug\Interfaces.dll
+E:\01_Work\产品支持\Newlab实验\02_Code\new\10_光照\Light\bin\Debug\Light.Uc.dll
+E:\01_Work\产品支持\Newlab实验\02_Code\new\10_光照\Light\bin\Debug\Light.Uc.pdb
+E:\01_Work\产品支持\Newlab实验\02_Code\new\10_光照\Light\bin\Debug\Light.Uc.xml
+E:\01_Work\产品支持\Newlab实验\02_Code\new\10_光照\Light\obj\Debug\Light.exe
+E:\01_Work\产品支持\Newlab实验\02_Code\new\10_光照\Light\obj\Debug\Light.pdb
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\08_光照感应实验\项目源码\Light\bin\Debug\Light.exe.config
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\Light.exe
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\Light.pdb
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\08_光照感应实验\项目源码\Light\bin\Debug\Light.exe
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\08_光照感应实验\项目源码\Light\bin\Debug\Light.pdb
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\08_光照感应实验\项目源码\Light\bin\Debug\Interfaces.dll
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\08_光照感应实验\项目源码\Light\bin\Debug\Light.Uc.dll
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\08_光照感应实验\项目源码\Light\bin\Debug\Light.Uc.pdb
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\08_光照感应实验\项目源码\Light\bin\Debug\Light.Uc.xml
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\MainWindow.baml
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\MainWindow.g.cs
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\App.g.cs
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\Light_MarkupCompile.cache
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\Light.g.resources
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\Light.Properties.Resources.resources
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\Light.csproj.GenerateResource.Cache
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\08_光照感应实验\项目源码\Light\bin\Debug\Light.exe.config
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\08_光照感应实验\项目源码\Light\obj\Debug\Light.exe
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\08_光照感应实验\项目源码\Light\obj\Debug\Light.pdb
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\08_光照感应实验\项目源码\Light\bin\Debug\Light.exe
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\08_光照感应实验\项目源码\Light\bin\Debug\Light.pdb
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\08_光照感应实验\项目源码\Light\bin\Debug\Interfaces.dll
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\08_光照感应实验\项目源码\Light\bin\Debug\Light.Uc.dll
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\08_光照感应实验\项目源码\Light\bin\Debug\Light.Uc.pdb
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\08_光照感应实验\项目源码\Light\bin\Debug\Light.Uc.xml
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\08_光照感应实验\项目源码\Light\obj\Debug\Light.csprojResolveAssemblyReference.cache
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\08_光照感应实验\项目源码\Light\obj\Debug\MainWindow.baml
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\08_光照感应实验\项目源码\Light\obj\Debug\MainWindow.g.cs
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\08_光照感应实验\项目源码\Light\obj\Debug\App.g.cs
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\08_光照感应实验\项目源码\Light\obj\Debug\Light_MarkupCompile.cache
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\08_光照感应实验\项目源码\Light\obj\Debug\Light.g.resources
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\08_光照感应实验\项目源码\Light\obj\Debug\Light.Properties.Resources.resources
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\08_光照感应实验\项目源码\Light\obj\Debug\Light.csproj.GenerateResource.Cache
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\bin\Debug\Light.exe.config
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\bin\Debug\Light.exe
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\bin\Debug\Light.pdb
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\bin\Debug\Interfaces.dll
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\bin\Debug\Light.Uc.dll
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\bin\Debug\Light.Uc.pdb
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\bin\Debug\Light.Uc.xml
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\MainWindow.baml
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\MainWindow.g.cs
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\App.g.cs
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\Light_MarkupCompile.cache
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\Light.g.resources
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\Light.Properties.Resources.resources
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\Light.csproj.GenerateResource.cache
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\Light.csproj.CoreCompileInputs.cache
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\Light.csproj.CopyComplete
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\Light.exe
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\Light.pdb
+D:\Code\WPF\Project\物联网基础教学实验\10_教学资料\NewLab实验实训教程\C#应用程序开发\08_光照感应实验\项目源码\Light\obj\Debug\Light.csprojAssemblyReference.cache
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\08_光照感应实验\02_项目代码\Light\bin\Debug\Light.exe.config
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.exe
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.pdb
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\08_光照感应实验\02_项目代码\Light\bin\Debug\Light.exe
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\08_光照感应实验\02_项目代码\Light\bin\Debug\Light.pdb
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\08_光照感应实验\02_项目代码\Light\bin\Debug\Interfaces.dll
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\08_光照感应实验\02_项目代码\Light\bin\Debug\Light.Uc.dll
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\08_光照感应实验\02_项目代码\Light\bin\Debug\Light.Uc.pdb
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\08_光照感应实验\02_项目代码\Light\bin\Debug\Light.Uc.xml
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.csprojResolveAssemblyReference.cache
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\08_光照感应实验\02_项目代码\Light\obj\Debug\MainWindow.baml
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\08_光照感应实验\02_项目代码\Light\obj\Debug\MainWindow.g.cs
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\08_光照感应实验\02_项目代码\Light\obj\Debug\App.g.cs
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\08_光照感应实验\02_项目代码\Light\obj\Debug\Light_MarkupCompile.cache
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.g.resources
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.Properties.Resources.resources
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.csproj.GenerateResource.Cache
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\bin\Debug\Light.exe.config
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.exe
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.pdb
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\bin\Debug\Light.exe
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\bin\Debug\Light.pdb
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\bin\Debug\Interfaces.dll
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\bin\Debug\Light.Uc.dll
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\bin\Debug\Light.Uc.pdb
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\bin\Debug\Light.Uc.xml
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.csprojResolveAssemblyReference.cache
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\MainWindow.baml
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\MainWindow.g.cs
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\App.g.cs
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\Light_MarkupCompile.cache
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.g.resources
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.Properties.Resources.resources
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.csproj.GenerateResource.Cache
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\bin\Debug\Light.exe.config
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\bin\Debug\Light.exe
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\bin\Debug\Light.pdb
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\bin\Debug\Interfaces.dll
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\bin\Debug\Light.Uc.dll
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\bin\Debug\Light.Uc.pdb
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\bin\Debug\Light.Uc.xml
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.csprojAssemblyReference.cache
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\MainWindow.baml
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\MainWindow.g.cs
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\App.g.cs
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\Light_MarkupCompile.cache
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.g.resources
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.Properties.Resources.resources
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.csproj.GenerateResource.cache
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.csproj.CoreCompileInputs.cache
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.csproj.CopyComplete
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.exe
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\08_光照感应实验\02_项目代码\Light\obj\Debug\Light.pdb
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\bin\Debug\Light.exe.config
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\bin\Debug\Light.exe
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\bin\Debug\Light.pdb
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\bin\Debug\Interfaces.dll
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\bin\Debug\Light.Uc.dll
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\bin\Debug\Light.Uc.pdb
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\bin\Debug\Light.Uc.xml
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\obj\Debug\Light.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\obj\Debug\Light.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\obj\Debug\App.g.cs
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\obj\Debug\Light_MarkupCompile.cache
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\obj\Debug\Light.g.resources
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\obj\Debug\Light.Properties.Resources.resources
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\obj\Debug\Light.csproj.GenerateResource.cache
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\obj\Debug\Light.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\obj\Debug\Light.csproj.CopyComplete
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\obj\Debug\Light.exe
+C:\Users\user\Desktop\实验三\光照传感器实验代码\Light\obj\Debug\Light.pdb

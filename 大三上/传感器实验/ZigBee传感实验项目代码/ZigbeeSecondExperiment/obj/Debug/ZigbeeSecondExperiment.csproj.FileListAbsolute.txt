@@ -1,0 +1,50 @@
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\bin\Debug\ZigbeeSecondExperiment.exe.config
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\bin\Debug\ZigbeeSecondExperiment.exe
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\bin\Debug\ZigbeeSecondExperiment.pdb
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\bin\Debug\Interfaces.dll
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\bin\Debug\ZigbeeExperiment2.Uc.dll
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\bin\Debug\ZigbeeExperiment2.Uc.xml
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.csprojResolveAssemblyReference.cache
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\MainWindow.baml
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\MainWindow.g.cs
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\App.g.cs
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment_MarkupCompile.cache
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.g.resources
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.Properties.Resources.resources
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.csproj.GenerateResource.Cache
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.exe
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.pdb
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\bin\Debug\ZigbeeSecondExperiment.exe.config
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.exe
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.pdb
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\bin\Debug\ZigbeeSecondExperiment.exe
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\bin\Debug\ZigbeeSecondExperiment.pdb
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\bin\Debug\Interfaces.dll
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\bin\Debug\ZigbeeExperiment2.Uc.dll
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\bin\Debug\ZigbeeExperiment2.Uc.xml
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.csprojResolveAssemblyReference.cache
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\MainWindow.baml
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\MainWindow.g.cs
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\App.g.cs
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment_MarkupCompile.cache
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.g.resources
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.Properties.Resources.resources
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\11_Zigbee传感实验\项目源码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.csproj.GenerateResource.Cache
+C:\mywork\课程\22-23-1传感器网络\my\实验\实验内容\04ZigBee传感\11_ZigBee传感实验\02_项目代码\ZigbeeSecondExperiment\bin\Debug\ZigbeeSecondExperiment.exe.config
+C:\mywork\课程\22-23-1传感器网络\my\实验\实验内容\04ZigBee传感\11_ZigBee传感实验\02_项目代码\ZigbeeSecondExperiment\bin\Debug\ZigbeeSecondExperiment.exe
+C:\mywork\课程\22-23-1传感器网络\my\实验\实验内容\04ZigBee传感\11_ZigBee传感实验\02_项目代码\ZigbeeSecondExperiment\bin\Debug\ZigbeeSecondExperiment.pdb
+C:\mywork\课程\22-23-1传感器网络\my\实验\实验内容\04ZigBee传感\11_ZigBee传感实验\02_项目代码\ZigbeeSecondExperiment\bin\Debug\Interfaces.dll
+C:\mywork\课程\22-23-1传感器网络\my\实验\实验内容\04ZigBee传感\11_ZigBee传感实验\02_项目代码\ZigbeeSecondExperiment\bin\Debug\ZigbeeExperiment2.Uc.dll
+C:\mywork\课程\22-23-1传感器网络\my\实验\实验内容\04ZigBee传感\11_ZigBee传感实验\02_项目代码\ZigbeeSecondExperiment\bin\Debug\ZigbeeExperiment2.Uc.xml
+C:\mywork\课程\22-23-1传感器网络\my\实验\实验内容\04ZigBee传感\11_ZigBee传感实验\02_项目代码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.csprojAssemblyReference.cache
+C:\mywork\课程\22-23-1传感器网络\my\实验\实验内容\04ZigBee传感\11_ZigBee传感实验\02_项目代码\ZigbeeSecondExperiment\obj\Debug\MainWindow.baml
+C:\mywork\课程\22-23-1传感器网络\my\实验\实验内容\04ZigBee传感\11_ZigBee传感实验\02_项目代码\ZigbeeSecondExperiment\obj\Debug\MainWindow.g.cs
+C:\mywork\课程\22-23-1传感器网络\my\实验\实验内容\04ZigBee传感\11_ZigBee传感实验\02_项目代码\ZigbeeSecondExperiment\obj\Debug\App.g.cs
+C:\mywork\课程\22-23-1传感器网络\my\实验\实验内容\04ZigBee传感\11_ZigBee传感实验\02_项目代码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment_MarkupCompile.cache
+C:\mywork\课程\22-23-1传感器网络\my\实验\实验内容\04ZigBee传感\11_ZigBee传感实验\02_项目代码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.g.resources
+C:\mywork\课程\22-23-1传感器网络\my\实验\实验内容\04ZigBee传感\11_ZigBee传感实验\02_项目代码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.Properties.Resources.resources
+C:\mywork\课程\22-23-1传感器网络\my\实验\实验内容\04ZigBee传感\11_ZigBee传感实验\02_项目代码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.csproj.GenerateResource.cache
+C:\mywork\课程\22-23-1传感器网络\my\实验\实验内容\04ZigBee传感\11_ZigBee传感实验\02_项目代码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.csproj.CoreCompileInputs.cache
+C:\mywork\课程\22-23-1传感器网络\my\实验\实验内容\04ZigBee传感\11_ZigBee传感实验\02_项目代码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.csproj.CopyComplete
+C:\mywork\课程\22-23-1传感器网络\my\实验\实验内容\04ZigBee传感\11_ZigBee传感实验\02_项目代码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.exe
+C:\mywork\课程\22-23-1传感器网络\my\实验\实验内容\04ZigBee传感\11_ZigBee传感实验\02_项目代码\ZigbeeSecondExperiment\obj\Debug\ZigbeeSecondExperiment.pdb

@@ -1,0 +1,148 @@
+d:\documents\visual studio 2013\Projects\湿度传感实验\SensorSystem\bin\Debug\SensorSystem.exe.config
+d:\documents\visual studio 2013\Projects\湿度传感实验\SensorSystem\obj\Debug\MainWindow.baml
+d:\documents\visual studio 2013\Projects\湿度传感实验\SensorSystem\obj\Debug\MainWindow.g.cs
+d:\documents\visual studio 2013\Projects\湿度传感实验\SensorSystem\obj\Debug\App.g.cs
+d:\documents\visual studio 2013\Projects\湿度传感实验\SensorSystem\obj\Debug\SensorSystem_MarkupCompile.cache
+d:\documents\visual studio 2013\Projects\湿度传感实验\SensorSystem\obj\Debug\SensorSystem.g.resources
+d:\documents\visual studio 2013\Projects\湿度传感实验\SensorSystem\obj\Debug\SensorSystem.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\湿度传感实验\SensorSystem\obj\Debug\SensorSystem.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\湿度传感实验\SensorSystem\bin\Debug\SensorSystem.exe
+d:\documents\visual studio 2013\Projects\湿度传感实验\SensorSystem\bin\Debug\SensorSystem.pdb
+d:\documents\visual studio 2013\Projects\湿度传感实验\SensorSystem\obj\Debug\SensorSystem.exe
+d:\documents\visual studio 2013\Projects\湿度传感实验\SensorSystem\obj\Debug\SensorSystem.pdb
+d:\documents\visual studio 2013\Projects\湿度传感实验\SensorSystem\obj\Debug\SensorSystem.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\湿度传感实验\SensorSystem\bin\Debug\SensorLibrary.dll
+d:\documents\visual studio 2013\Projects\湿度传感实验\SensorSystem\bin\Debug\SensorLibrary.xml
+F:\Newland\产品支持部\高职项目\01_书稿教材\Newlab实验\02_Code\Net\12_温度传感实验\SensorSystem\bin\Debug\SensorSystem.exe.config
+F:\Newland\产品支持部\高职项目\01_书稿教材\Newlab实验\02_Code\Net\12_温度传感实验\SensorSystem\obj\Debug\SensorSystem.exe
+F:\Newland\产品支持部\高职项目\01_书稿教材\Newlab实验\02_Code\Net\12_温度传感实验\SensorSystem\obj\Debug\SensorSystem.pdb
+F:\Newland\产品支持部\高职项目\01_书稿教材\Newlab实验\02_Code\Net\12_温度传感实验\SensorSystem\bin\Debug\SensorSystem.exe
+F:\Newland\产品支持部\高职项目\01_书稿教材\Newlab实验\02_Code\Net\12_温度传感实验\SensorSystem\bin\Debug\SensorSystem.pdb
+F:\Newland\产品支持部\高职项目\01_书稿教材\Newlab实验\02_Code\Net\12_温度传感实验\SensorSystem\bin\Debug\SensorLibrary.dll
+F:\Newland\产品支持部\高职项目\01_书稿教材\Newlab实验\02_Code\Net\12_温度传感实验\SensorSystem\bin\Debug\SensorLibrary.xml
+F:\Newland\产品支持部\高职项目\01_书稿教材\Newlab实验\02_Code\Net\12_温度传感实验\SensorSystem\obj\Debug\MainWindow.baml
+F:\Newland\产品支持部\高职项目\01_书稿教材\Newlab实验\02_Code\Net\12_温度传感实验\SensorSystem\obj\Debug\MainWindow.g.cs
+F:\Newland\产品支持部\高职项目\01_书稿教材\Newlab实验\02_Code\Net\12_温度传感实验\SensorSystem\obj\Debug\App.g.cs
+F:\Newland\产品支持部\高职项目\01_书稿教材\Newlab实验\02_Code\Net\12_温度传感实验\SensorSystem\obj\Debug\SensorSystem_MarkupCompile.cache
+F:\Newland\产品支持部\高职项目\01_书稿教材\Newlab实验\02_Code\Net\12_温度传感实验\SensorSystem\obj\Debug\SensorSystem.g.resources
+F:\Newland\产品支持部\高职项目\01_书稿教材\Newlab实验\02_Code\Net\12_温度传感实验\SensorSystem\obj\Debug\SensorSystem.Properties.Resources.resources
+F:\Newland\产品支持部\高职项目\01_书稿教材\Newlab实验\02_Code\Net\12_温度传感实验\SensorSystem\obj\Debug\SensorSystem.csproj.GenerateResource.Cache
+E:\01_Work\产品支持\Newlab实验\02_Code\new\12_温度传感实验\SensorSystem\bin\Debug\SensorSystem.exe.config
+E:\01_Work\产品支持\Newlab实验\02_Code\new\12_温度传感实验\SensorSystem\obj\Debug\SensorSystem.exe
+E:\01_Work\产品支持\Newlab实验\02_Code\new\12_温度传感实验\SensorSystem\obj\Debug\SensorSystem.pdb
+E:\01_Work\产品支持\Newlab实验\02_Code\new\12_温度传感实验\SensorSystem\bin\Debug\SensorSystem.exe
+E:\01_Work\产品支持\Newlab实验\02_Code\new\12_温度传感实验\SensorSystem\bin\Debug\SensorSystem.pdb
+E:\01_Work\产品支持\Newlab实验\02_Code\new\12_温度传感实验\SensorSystem\bin\Debug\SensorLibrary.dll
+E:\01_Work\产品支持\Newlab实验\02_Code\new\12_温度传感实验\SensorSystem\bin\Debug\SensorLibrary.xml
+E:\01_Work\产品支持\Newlab实验\02_Code\new\12_温度传感实验\SensorSystem\obj\Debug\MainWindow.baml
+E:\01_Work\产品支持\Newlab实验\02_Code\new\12_温度传感实验\SensorSystem\obj\Debug\MainWindow.g.cs
+E:\01_Work\产品支持\Newlab实验\02_Code\new\12_温度传感实验\SensorSystem\obj\Debug\App.g.cs
+E:\01_Work\产品支持\Newlab实验\02_Code\new\12_温度传感实验\SensorSystem\obj\Debug\SensorSystem_MarkupCompile.cache
+E:\01_Work\产品支持\Newlab实验\02_Code\new\12_温度传感实验\SensorSystem\obj\Debug\SensorSystem.g.resources
+E:\01_Work\产品支持\Newlab实验\02_Code\new\12_温度传感实验\SensorSystem\obj\Debug\SensorSystem.Properties.Resources.resources
+E:\01_Work\产品支持\Newlab实验\02_Code\new\12_温度传感实验\SensorSystem\obj\Debug\SensorSystem.csproj.GenerateResource.Cache
+E:\01_Work\产品支持\Newlab实验\02_Code\new\12_温度传感实验\SensorSystem\bin\Debug\SensorLibrary.pdb
+F:\Newland\产品支持部\高职项目\01_书稿教材\C#应用程序开发\02_Code\Net\03_实验资源和源码\10_温度传感实验\项目源码\SensorSystem\bin\Debug\SensorSystem.exe.config
+F:\Newland\产品支持部\高职项目\01_书稿教材\C#应用程序开发\02_Code\Net\03_实验资源和源码\10_温度传感实验\项目源码\SensorSystem\obj\Debug\SensorSystem.exe
+F:\Newland\产品支持部\高职项目\01_书稿教材\C#应用程序开发\02_Code\Net\03_实验资源和源码\10_温度传感实验\项目源码\SensorSystem\obj\Debug\SensorSystem.pdb
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\10_温度传感实验\项目源码\SensorSystem\bin\Debug\SensorSystem.exe.config
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\10_温度传感实验\项目源码\SensorSystem\obj\Debug\SensorSystem.exe
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\10_温度传感实验\项目源码\SensorSystem\obj\Debug\SensorSystem.pdb
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\10_温度传感实验\项目源码\SensorSystem\bin\Debug\SensorSystem.exe
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\10_温度传感实验\项目源码\SensorSystem\bin\Debug\SensorSystem.pdb
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\10_温度传感实验\项目源码\SensorSystem\bin\Debug\SensorLibrary.dll
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\10_温度传感实验\项目源码\SensorSystem\bin\Debug\SensorLibrary.pdb
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\10_温度传感实验\项目源码\SensorSystem\bin\Debug\SensorLibrary.xml
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\10_温度传感实验\项目源码\SensorSystem\obj\Debug\SensorSystem.csprojResolveAssemblyReference.cache
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\10_温度传感实验\项目源码\SensorSystem\obj\Debug\MainWindow.baml
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\10_温度传感实验\项目源码\SensorSystem\obj\Debug\MainWindow.g.cs
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\10_温度传感实验\项目源码\SensorSystem\obj\Debug\App.g.cs
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\10_温度传感实验\项目源码\SensorSystem\obj\Debug\SensorSystem_MarkupCompile.cache
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\10_温度传感实验\项目源码\SensorSystem\obj\Debug\SensorSystem.g.resources
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\10_温度传感实验\项目源码\SensorSystem\obj\Debug\SensorSystem.Properties.Resources.resources
+D:\物联网教学部\01_产品资料（对外_对内_待处理）\01_对外资料\01_设备U盘配套资料\13-1-NEWLab（160906）\07_NEWLab项目U盘资料_C#开发系列2.0V\01_NEWLab实验实训教程——C#应用程序开发\10_温度传感实验\项目源码\SensorSystem\obj\Debug\SensorSystem.csproj.GenerateResource.Cache
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\10_温度传感实验\项目源码\SensorSystem\bin\Debug\SensorSystem.exe.config
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\10_温度传感实验\项目源码\SensorSystem\obj\Debug\SensorSystem.exe
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\10_温度传感实验\项目源码\SensorSystem\obj\Debug\SensorSystem.pdb
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\10_温度传感实验\项目源码\SensorSystem\bin\Debug\SensorSystem.exe
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\10_温度传感实验\项目源码\SensorSystem\bin\Debug\SensorSystem.pdb
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\10_温度传感实验\项目源码\SensorSystem\bin\Debug\SensorLibrary.dll
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\10_温度传感实验\项目源码\SensorSystem\bin\Debug\SensorLibrary.pdb
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\10_温度传感实验\项目源码\SensorSystem\bin\Debug\SensorLibrary.xml
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\10_温度传感实验\项目源码\SensorSystem\obj\Debug\SensorSystem.csprojResolveAssemblyReference.cache
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\10_温度传感实验\项目源码\SensorSystem\obj\Debug\MainWindow.baml
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\10_温度传感实验\项目源码\SensorSystem\obj\Debug\MainWindow.g.cs
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\10_温度传感实验\项目源码\SensorSystem\obj\Debug\App.g.cs
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\10_温度传感实验\项目源码\SensorSystem\obj\Debug\SensorSystem_MarkupCompile.cache
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\10_温度传感实验\项目源码\SensorSystem\obj\Debug\SensorSystem.g.resources
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\10_温度传感实验\项目源码\SensorSystem\obj\Debug\SensorSystem.Properties.Resources.resources
+D:\工作文件\1.项目\5.教材验证\2.一轮\9.C#应用程序开发\07_NEWLab实验实训教程——C#应用程序开发 V2.0\10_温度传感实验\项目源码\SensorSystem\obj\Debug\SensorSystem.csproj.GenerateResource.Cache
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\10_温度传感实验\02_项目代码\SensorSystem\bin\Debug\SensorSystem.exe.config
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.exe
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.pdb
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\10_温度传感实验\02_项目代码\SensorSystem\bin\Debug\SensorSystem.exe
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\10_温度传感实验\02_项目代码\SensorSystem\bin\Debug\SensorSystem.pdb
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\10_温度传感实验\02_项目代码\SensorSystem\bin\Debug\SensorLibrary.dll
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\10_温度传感实验\02_项目代码\SensorSystem\bin\Debug\SensorLibrary.pdb
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\10_温度传感实验\02_项目代码\SensorSystem\bin\Debug\SensorLibrary.xml
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.csprojResolveAssemblyReference.cache
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\MainWindow.baml
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\MainWindow.g.cs
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\App.g.cs
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem_MarkupCompile.cache
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.g.resources
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.Properties.Resources.resources
+D:\工作文件\1.项目\5.教材验证\1.资料整理\C#应用程序开发\目录\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.csproj.GenerateResource.Cache
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\bin\Debug\SensorSystem.exe.config
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.exe
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.pdb
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\bin\Debug\SensorSystem.exe
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\bin\Debug\SensorSystem.pdb
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\bin\Debug\SensorLibrary.dll
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\bin\Debug\SensorLibrary.pdb
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\bin\Debug\SensorLibrary.xml
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.csprojResolveAssemblyReference.cache
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\MainWindow.baml
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\MainWindow.g.cs
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\App.g.cs
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem_MarkupCompile.cache
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.g.resources
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.Properties.Resources.resources
+D:\1_MyWork\01-教学\04-实验\传感器传感网\3 传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.csproj.GenerateResource.Cache
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\bin\Debug\SensorSystem.exe.config
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\bin\Debug\SensorSystem.exe
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\bin\Debug\SensorSystem.pdb
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\bin\Debug\SensorLibrary.dll
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\bin\Debug\SensorLibrary.pdb
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\bin\Debug\SensorLibrary.xml
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.csprojAssemblyReference.cache
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\MainWindow.baml
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\MainWindow.g.cs
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\App.g.cs
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem_MarkupCompile.cache
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.g.resources
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.Properties.Resources.resources
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.csproj.GenerateResource.cache
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.csproj.CoreCompileInputs.cache
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.csproj.CopyComplete
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.exe
+C:\mywork\课程\22-23-1传感器网络\传感器网络-新大陆\03_C#应用程序开发 V2.1\10_温度传感实验\02_项目代码\SensorSystem\obj\Debug\SensorSystem.pdb
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\bin\Debug\SensorSystem.exe.config
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\bin\Debug\SensorSystem.exe
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\bin\Debug\SensorSystem.pdb
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\bin\Debug\SensorLibrary.dll
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\bin\Debug\SensorLibrary.pdb
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\bin\Debug\SensorLibrary.xml
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\obj\Debug\SensorSystem.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\obj\Debug\SensorSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\obj\Debug\App.g.cs
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\obj\Debug\SensorSystem_MarkupCompile.cache
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\obj\Debug\SensorSystem.g.resources
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\obj\Debug\SensorSystem.Properties.Resources.resources
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\obj\Debug\SensorSystem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\obj\Debug\SensorSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\obj\Debug\SensorSystem.csproj.CopyComplete
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\obj\Debug\SensorSystem.exe
+C:\Users\user\Desktop\实验一\温度传感实验项目代码\SensorSystem\obj\Debug\SensorSystem.pdb

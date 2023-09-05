@@ -1,0 +1,2 @@
+注意:
+action_airfan_on.gif  图片需要在debug或是release文件夹下创建，防止动态图片不显示
